@@ -13,8 +13,9 @@ const Apps = () => {
     <div>
       <div className="flex justify-between py-5 items-center">
         <h1>
-          All Apps:{" "}
-          <span className="text-sm">({applink.length}) apps is Found</span>
+          <span className="text-2xl font-semibold">
+            ({searchedApp.length}) apps is Found
+          </span>
         </h1>
         <div>
           <label className="input">
@@ -44,11 +45,23 @@ const Apps = () => {
           </label>
         </div>
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-        {searchedApp.map((appData) => (
-          <AppCard key={appData.id} appData={appData} />
-        ))}
-      </div>
+      {searchedApp.length > 0 ? (
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+          {searchedApp.map((appData) => (
+            <AppCard key={appData.id} appData={appData} />
+          ))}
+        </div>
+      ) : (
+        <div
+          onClick={() => setSearch("")}
+          className="text-center py-20 text-gray-500"
+        >
+          <h2 className="text-6xl font-semibold mb-8">No Apps Found</h2>
+          <button className="w-[250px] h-13 btn bg-[#003145] text-white text-lg my-10">
+            Show All Apps
+          </button>
+        </div>
+      )}
     </div>
   );
 };
