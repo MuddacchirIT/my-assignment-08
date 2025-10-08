@@ -84,9 +84,9 @@ const Navbar = () => {
             href="https://github.com/MuddacchirIT"
             target="_blank"
             rel="noopener noreferrer"
-            className="w-[160px] h-12 text-lg btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white"
+            className="w-[175px] h-12 text-lg btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white"
           >
-            <img className="w-6" src={githubImg} alt="" />
+            <img className="mr-2 w-7" src={githubImg} alt="" />
             Contribute
           </a>
         </div>

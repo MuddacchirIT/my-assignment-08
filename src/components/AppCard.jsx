@@ -1,8 +1,12 @@
 const AppCard = ({ appData }) => {
   return (
-    <div className="card bg-base-100 border shadow-sm transform transition-transform duration-300 hover:-translate-y-2">
-      <figure className="h-48 overflow-hidden">
-        <img className="w-full object-cover" src={appData.image} alt="Shoes" />
+    <div className="card bg-base-100 shadow-md p-3 rounded-lg transform transition-transform duration-300 hover:-translate-y-2">
+      <figure className="h-50 overflow-hidden">
+        <img
+          className="w-full object-cover"
+          src={appData.image}
+          alt="appCard"
+        />
       </figure>
       <div className="card-body">
         <h2 className="card-title">{appData.title}</h2>

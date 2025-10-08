@@ -64,7 +64,7 @@ const Home = () => {
           Explore All Trending Apps on the Market developed by us
         </p>
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 bg-gray-50 p-3 rounded-lg">
         {featuredCard.map((appData) => (
           <AppCard key={appData.id} appData={appData} />
         ))}
