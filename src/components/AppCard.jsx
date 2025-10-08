@@ -5,9 +5,7 @@ const AppCard = ({ appData }) => {
         <img className="w-full object-cover" src={appData.image} alt="Shoes" />
       </figure>
       <div className="card-body">
-        <h2 className="card-title">
-          {appData.companyName}-{appData.title}
-        </h2>
+        <h2 className="card-title">{appData.title}</h2>
         <div className="card-actions justify-between">
           <button className="btn btn-primary">Buy Now</button>
           <button className="btn btn-primary">Buy Now</button>

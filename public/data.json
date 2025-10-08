@@ -253,24 +253,6 @@
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app11/200",
-    "title": "TaskHive",
-    "companyName": "WorkSmart",
-    "id": 11,
-    "description": "Collaborative task management for remote teams.",
-    "size": 95.3,
-    "reviews": 16200,
-    "ratingAvg": 4.5,
-    "downloads": 2600000,
-    "ratings": [
-      { "name": "1 star", "count": 800 },
-      { "name": "2 star", "count": 1100 },
-      { "name": "3 star", "count": 2400 },
-      { "name": "4 star", "count": 5100 },
-      { "name": "5 star", "count": 6800 }
-    ]
-  },
-  {
     "image": "https://picsum.photos/seed/app12/200",
     "title": "Weatherly",
     "companyName": "ClimaSense",
