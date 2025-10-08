@@ -1,23 +1,5 @@
 [
   {
-    "image": "https://picsum.photos/seed/app1/200",
-    "title": "PhotoFix",
-    "companyName": "Pixeloid",
-    "id": 1,
-    "description": "AI-based photo enhancement and background remover.",
-    "size": 80.4,
-    "reviews": 17300,
-    "ratingAvg": 4.6,
-    "downloads": 2100000,
-    "ratings": [
-      { "name": "1 star", "count": 600 },
-      { "name": "2 star", "count": 1200 },
-      { "name": "3 star", "count": 2900 },
-      { "name": "4 star", "count": 4900 },
-      { "name": "5 star", "count": 7600 }
-    ]
-  },
-  {
     "image": "https://picsum.photos/seed/app26/200",
     "title": "PlantPal",
     "companyName": "GreenGrow Labs",
@@ -394,6 +376,24 @@
       { "name": "3 star", "count": 1400 },
       { "name": "4 star", "count": 4000 },
       { "name": "5 star", "count": 10100 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1/200",
+    "title": "PhotoFix",
+    "companyName": "Pixeloid",
+    "id": 1,
+    "description": "AI-based photo enhancement and background remover.",
+    "size": 80.4,
+    "reviews": 17300,
+    "ratingAvg": 4.6,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 2900 },
+      { "name": "4 star", "count": 4900 },
+      { "name": "5 star", "count": 7600 }
     ]
   },
   {

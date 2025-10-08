@@ -1,4 +1,7 @@
 import { Link } from "react-router";
+import mobileImg from "../assets/images/hero.png";
+import appstoreImg from "../assets/images/logo/app-logo-png.png";
+import googleImg from "../assets/images/logo/images-play.png";
 import AppCard from "../components/AppCard";
 import useCard from "../hooks/useCard";
 const Home = () => {
@@ -6,7 +9,62 @@ const Home = () => {
   const featuredCard = applink.slice(0, 9);
   return (
     <div>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+      <div className="text-center space-y-10">
+        <h1 className="text-[#001931] text-5xl font-bold">
+          We Build <br />
+          <span className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">
+            Productive{" "}
+          </span>
+          Apps
+        </h1>
+        <p className="text-lg text-[#00193190">
+          At HERO.IO, we craft innovative apps designed to make everyday life
+          simpler, smarter, and more exciting. <br /> Our goal is to turn your
+          ideas into digital experiences that truly make an impact.
+        </p>
+        <div className="flex justify-center gap-4">
+          <div className="btn flex gap-3">
+            <img className="w-8" src={googleImg} alt="" />
+            <h1 className="text-lg font-semibold">Google Play</h1>
+          </div>
+          <div className="btn flex gap-4 mb-8">
+            <img className="w-8" src={appstoreImg} alt="" />
+            <h1 className="text-lg font-semibold">App Store</h1>
+          </div>
+        </div>
+      </div>
+      <div>
+        <img className="w-90% mx-auto" src={mobileImg} alt="" />
+        <div className="flex flex-col justify-center items-center space-y-10 h-[400px] bg-gradient-to-r from-[#632EE3] to-[#9F62F2]">
+          <h2 className="text-5xl text-white font-bold">
+            Trusted by Millions, Built for You
+          </h2>
+          <div className="flex justify-center items-center gap-50">
+            <div>
+              <p className="text-lg text-white">Total Downloads</p>
+              <h3 className="text-6xl text-white font-bold">29.6M</h3>
+              <p className="text-lg text-white">21% more than last month</p>
+            </div>
+            <div>
+              <p className="text-lg text-white">Total Reviews</p>
+              <h3 className="text-6xl text-white font-bold">906K</h3>
+              <p className="text-lg text-white">46% more than last month</p>
+            </div>
+            <div>
+              <p className="text-lg text-white">Active Apps</p>
+              <h3 className="text-6xl text-white font-bold">132+</h3>
+              <p className="text-lg text-white">31 more will Launch</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="text-center space-y-4 my-10">
+        <h2 className="text-5xl text-[#00193199] font-bold">Trending Apps</h2>
+        <p className="text-lg text-[#00193199">
+          Explore All Trending Apps on the Market developed by us
+        </p>
+      </div>
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
         {featuredCard.map((appData) => (
           <AppCard key={appData.id} appData={appData} />
         ))}
