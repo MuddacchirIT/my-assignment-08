@@ -23,11 +23,11 @@ const Home = () => {
           ideas into digital experiences that truly make an impact.
         </p>
         <div className="flex justify-center items-center gap-10 mb-10">
-          <div className="flex justify-center items-center gap-3 px-8 py-2 rounded-lg border border-gray-300">
+          <div className="flex justify-center items-center gap-3 px-8 py-2 rounded-lg shadow-md">
             <img className="w-10 bg-white" src={googleImg} alt="" />
             <h1 className="text-xl font-semibold">Google Play</h1>
           </div>
-          <div className="flex justify-center items-center gap-3 px-8 py-2 rounded-lg border border-gray-300">
+          <div className="flex justify-center items-center gap-3 px-8 py-2 rounded-lg shadow-md">
             <img className="w-10 bg-white" src={appstoreImg} alt="" />
             <h1 className="text-xl font-semibold">App Store</h1>
           </div>
