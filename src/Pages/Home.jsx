@@ -1,7 +1,7 @@
 import { Link } from "react-router";
+import appstoreImg from "../assets/images/google_store/apple-ios.png";
+import googleImg from "../assets/images/google_store/google_play.png";
 import mobileImg from "../assets/images/hero.png";
-import appstoreImg from "../assets/images/logo/app-logo-png.png";
-import googleImg from "../assets/images/logo/images-play.png";
 import AppCard from "../components/AppCard";
 import useCard from "../hooks/useCard";
 const Home = () => {
@@ -22,14 +22,14 @@ const Home = () => {
           simpler, smarter, and more exciting. <br /> Our goal is to turn your
           ideas into digital experiences that truly make an impact.
         </p>
-        <div className="flex justify-center gap-4">
-          <div className="btn flex gap-3">
-            <img className="w-8" src={googleImg} alt="" />
-            <h1 className="text-lg font-semibold">Google Play</h1>
+        <div className="flex justify-center items-center gap-10 mb-10">
+          <div className="flex justify-center items-center gap-3 px-8 py-2 rounded-lg border border-gray-300">
+            <img className="w-10 bg-white" src={googleImg} alt="" />
+            <h1 className="text-xl font-semibold">Google Play</h1>
           </div>
-          <div className="btn flex gap-4 mb-8">
-            <img className="w-8" src={appstoreImg} alt="" />
-            <h1 className="text-lg font-semibold">App Store</h1>
+          <div className="flex justify-center items-center gap-3 px-8 py-2 rounded-lg border border-gray-300">
+            <img className="w-10 bg-white" src={appstoreImg} alt="" />
+            <h1 className="text-xl font-semibold">App Store</h1>
           </div>
         </div>
       </div>
