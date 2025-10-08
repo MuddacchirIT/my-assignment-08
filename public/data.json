@@ -1,0 +1,507 @@
+[
+  {
+    "image": "https://picsum.photos/seed/app1/200",
+    "title": "PhotoFix",
+    "companyName": "Pixeloid",
+    "id": 1,
+    "description": "AI-based photo enhancement and background remover.",
+    "size": 80.4,
+    "reviews": 17300,
+    "ratingAvg": 4.6,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 2900 },
+      { "name": "4 star", "count": 4900 },
+      { "name": "5 star", "count": 7600 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app26/200",
+    "title": "PlantPal",
+    "companyName": "GreenGrow Labs",
+    "id": 26,
+    "description": "Identify plants and get personalized care reminders.",
+    "size": 58.3,
+    "reviews": 15200,
+    "ratingAvg": 4.7,
+    "downloads": 1900000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1900 },
+      { "name": "4 star", "count": 4300 },
+      { "name": "5 star", "count": 8900 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app27/200",
+    "title": "HomeFit",
+    "companyName": "ActiveLiving",
+    "id": 27,
+    "description": "At-home workout plans and AI-powered coaching.",
+    "size": 88.1,
+    "reviews": 24400,
+    "ratingAvg": 4.5,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2100 },
+      { "name": "3 star", "count": 4500 },
+      { "name": "4 star", "count": 7200 },
+      { "name": "5 star", "count": 9100 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app28/200",
+    "title": "ChefCraft",
+    "companyName": "GastroTech",
+    "id": 28,
+    "description": "Interactive cooking tutorials from world-class chefs.",
+    "size": 112.4,
+    "reviews": 32600,
+    "ratingAvg": 4.8,
+    "downloads": 6100000,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 3100 },
+      { "name": "4 star", "count": 7700 },
+      { "name": "5 star", "count": 19200 }
+    ]
+  },
+
+  {
+    "image": "https://picsum.photos/seed/app2/200",
+    "title": "MindEase",
+    "companyName": "CalmTech",
+    "id": 2,
+    "description": "Meditation, relaxation, and focus exercises for a calm mind.",
+    "size": 67.9,
+    "reviews": 28000,
+    "ratingAvg": 4.9,
+    "downloads": 5200000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 5100 },
+      { "name": "5 star", "count": 20900 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app3/200",
+    "title": "TravelMate",
+    "companyName": "WanderWorks",
+    "id": 3,
+    "description": "Your ultimate travel companion with maps, tips, and itineraries.",
+    "size": 105.2,
+    "reviews": 32500,
+    "ratingAvg": 4.4,
+    "downloads": 4800000,
+    "ratings": [
+      { "name": "1 star", "count": 2900 },
+      { "name": "2 star", "count": 3200 },
+      { "name": "3 star", "count": 6800 },
+      { "name": "4 star", "count": 8400 },
+      { "name": "5 star", "count": 11200 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app4/200",
+    "title": "NoteFlow",
+    "companyName": "ZenApps",
+    "id": 4,
+    "description": "Organize your thoughts and tasks in one elegant workspace.",
+    "size": 36.7,
+    "reviews": 14210,
+    "ratingAvg": 4.6,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 532 },
+      { "name": "2 star", "count": 780 },
+      { "name": "3 star", "count": 2102 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 5796 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app5/200",
+    "title": "FitTrack Pro",
+    "companyName": "HealthLab Inc.",
+    "id": 5,
+    "description": "Track workouts, steps, calories, and more with AI insights.",
+    "size": 92.4,
+    "reviews": 18433,
+    "ratingAvg": 4.5,
+    "downloads": 2400000,
+    "ratings": [
+      { "name": "1 star", "count": 1423 },
+      { "name": "2 star", "count": 2034 },
+      { "name": "3 star", "count": 3412 },
+      { "name": "4 star", "count": 6212 },
+      { "name": "5 star", "count": 7352 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app6/200",
+    "title": "SoundWave Studio",
+    "companyName": "EchoByte",
+    "id": 6,
+    "description": "Mix and master tracks with professional-grade audio tools.",
+    "size": 188.1,
+    "reviews": 15600,
+    "ratingAvg": 4.3,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 2800 },
+      { "name": "4 star", "count": 4600 },
+      { "name": "5 star", "count": 6700 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app7/200",
+    "title": "QuickCook Recipes",
+    "companyName": "HomeChef Co.",
+    "id": 7,
+    "description": "Discover and cook meals in under 30 minutes.",
+    "size": 55.3,
+    "reviews": 20500,
+    "ratingAvg": 4.6,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 2300 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 8500 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app8/200",
+    "title": "CryptoPulse",
+    "companyName": "BlockEdge",
+    "id": 8,
+    "description": "Stay updated on cryptocurrency trends and prices.",
+    "size": 44.8,
+    "reviews": 11900,
+    "ratingAvg": 4.2,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 2800 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3500 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app9/200",
+    "title": "LearnLang",
+    "companyName": "Polyglot Studio",
+    "id": 9,
+    "description": "Master new languages through conversation and games.",
+    "size": 120.5,
+    "reviews": 40200,
+    "ratingAvg": 4.7,
+    "downloads": 6200000,
+    "ratings": [
+      { "name": "1 star", "count": 2100 },
+      { "name": "2 star", "count": 2800 },
+      { "name": "3 star", "count": 5200 },
+      { "name": "4 star", "count": 10200 },
+      { "name": "5 star", "count": 19900 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app10/200",
+    "title": "BudgetBuddy",
+    "companyName": "Finovate Labs",
+    "id": 10,
+    "description": "Manage expenses, savings, and goals effortlessly.",
+    "size": 22.5,
+    "reviews": 9800,
+    "ratingAvg": 4.8,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app11/200",
+    "title": "FitTrackr",
+    "companyName": "VitalSync Studios",
+    "id": 11,
+    "description": "Monitor workouts, nutrition, and sleep with AI-driven insights.",
+    "size": 34.2,
+    "reviews": 15600,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 8500 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app11/200",
+    "title": "TaskHive",
+    "companyName": "WorkSmart",
+    "id": 11,
+    "description": "Collaborative task management for remote teams.",
+    "size": 95.3,
+    "reviews": 16200,
+    "ratingAvg": 4.5,
+    "downloads": 2600000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 5100 },
+      { "name": "5 star", "count": 6800 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app12/200",
+    "title": "Weatherly",
+    "companyName": "ClimaSense",
+    "id": 12,
+    "description": "Real-time weather forecasts with radar and alerts.",
+    "size": 52.6,
+    "reviews": 21300,
+    "ratingAvg": 4.4,
+    "downloads": 3400000,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 3300 },
+      { "name": "4 star", "count": 7400 },
+      { "name": "5 star", "count": 8100 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app13/200",
+    "title": "EduQuest",
+    "companyName": "BrightLearn",
+    "id": 13,
+    "description": "Interactive lessons and quizzes for all ages.",
+    "size": 115.9,
+    "reviews": 38500,
+    "ratingAvg": 4.8,
+    "downloads": 5600000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 1900 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 9500 },
+      { "name": "5 star", "count": 21600 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app14/200",
+    "title": "GameVault",
+    "companyName": "PlayHub",
+    "id": 14,
+    "description": "Discover trending mobile games and track progress.",
+    "size": 60.2,
+    "reviews": 25100,
+    "ratingAvg": 4.3,
+    "downloads": 3900000,
+    "ratings": [
+      { "name": "1 star", "count": 1800 },
+      { "name": "2 star", "count": 2300 },
+      { "name": "3 star", "count": 5400 },
+      { "name": "4 star", "count": 7800 },
+      { "name": "5 star", "count": 7800 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app15/200",
+    "title": "PetCare+",
+    "companyName": "FurTech",
+    "id": 15,
+    "description": "Keep track of your pet’s health, walks, and diet.",
+    "size": 41.2,
+    "reviews": 13400,
+    "ratingAvg": 4.7,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 6800 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app16/200",
+    "title": "ShopSmart",
+    "companyName": "EcomLabs",
+    "id": 16,
+    "description": "Compare prices and find deals from top retailers.",
+    "size": 79.8,
+    "reviews": 27400,
+    "ratingAvg": 4.3,
+    "downloads": 4800000,
+    "ratings": [
+      { "name": "1 star", "count": 1900 },
+      { "name": "2 star", "count": 2300 },
+      { "name": "3 star", "count": 5600 },
+      { "name": "4 star", "count": 8700 },
+      { "name": "5 star", "count": 9900 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app17/200",
+    "title": "StreamNow",
+    "companyName": "MediaStream Inc.",
+    "id": 17,
+    "description": "Watch your favorite shows and movies anywhere.",
+    "size": 220.3,
+    "reviews": 81500,
+    "ratingAvg": 4.6,
+    "downloads": 12500000,
+    "ratings": [
+      { "name": "1 star", "count": 5500 },
+      { "name": "2 star", "count": 7400 },
+      { "name": "3 star", "count": 14100 },
+      { "name": "4 star", "count": 21100 },
+      { "name": "5 star", "count": 33400 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app18/200",
+    "title": "EcoTrack",
+    "companyName": "GreenLife",
+    "id": 18,
+    "description": "Track your carbon footprint and sustainability habits.",
+    "size": 38.5,
+    "reviews": 9200,
+    "ratingAvg": 4.5,
+    "downloads": 800000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 4300 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app19/200",
+    "title": "SleepWell",
+    "companyName": "DreamTech",
+    "id": 19,
+    "description": "Sleep tracker and relaxation soundscapes.",
+    "size": 70.2,
+    "reviews": 15600,
+    "ratingAvg": 4.8,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 10100 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app20/200",
+    "title": "RideShare+",
+    "companyName": "UrbanMotion",
+    "id": 20,
+    "description": "Book rides quickly with real-time driver tracking.",
+    "size": 93.7,
+    "reviews": 45200,
+    "ratingAvg": 4.2,
+    "downloads": 8300000,
+    "ratings": [
+      { "name": "1 star", "count": 4400 },
+      { "name": "2 star", "count": 5200 },
+      { "name": "3 star", "count": 8900 },
+      { "name": "4 star", "count": 11400 },
+      { "name": "5 star", "count": 15300 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app21/200",
+    "title": "TuneMix",
+    "companyName": "BeatLabs",
+    "id": 21,
+    "description": "Create playlists and discover new music.",
+    "size": 84.5,
+    "reviews": 27100,
+    "ratingAvg": 4.4,
+    "downloads": 4700000,
+    "ratings": [
+      { "name": "1 star", "count": 1900 },
+      { "name": "2 star", "count": 2600 },
+      { "name": "3 star", "count": 4800 },
+      { "name": "4 star", "count": 8200 },
+      { "name": "5 star", "count": 9600 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app22/200",
+    "title": "CityGuide",
+    "companyName": "Triply",
+    "id": 22,
+    "description": "Explore nearby attractions, restaurants, and tours.",
+    "size": 101.6,
+    "reviews": 19800,
+    "ratingAvg": 4.5,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 5800 },
+      { "name": "5 star", "count": 7500 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app23/200",
+    "title": "SecureVault",
+    "companyName": "SafeByte",
+    "id": 23,
+    "description": "Store your passwords and sensitive data securely.",
+    "size": 29.8,
+    "reviews": 7400,
+    "ratingAvg": 4.9,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1700 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app24/200",
+    "title": "DocuScan",
+    "companyName": "PaperlessWorks",
+    "id": 24,
+    "description": "Scan, sign, and share documents with ease.",
+    "size": 31.7,
+    "reviews": 8900,
+    "ratingAvg": 4.4,
+    "downloads": 1300000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1700 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 3300 }
+    ]
+  }
+]
