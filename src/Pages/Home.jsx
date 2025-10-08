@@ -23,14 +23,24 @@ const Home = () => {
           ideas into digital experiences that truly make an impact.
         </p>
         <div className="flex justify-center items-center gap-10 mb-10">
-          <div className="flex justify-center items-center gap-3 px-6 py-1 rounded-lg shadow-md border border-gray-200 transform transition-transform duration-100 hover:-translate-x-1">
+          <a
+            href="https://play.google.com/store/games?device=windows"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex justify-center items-center gap-3 px-6 py-1.5 rounded-lg border border-gray-200 transform transition-transform duration-100 hover:-translate-x-1"
+          >
             <img className="w-9" src={googleImg} alt="" />
-            <h1 className="text-xl">Google Play</h1>
-          </div>
-          <div className="flex justify-center items-center gap-3 px-6 py-1 rounded-lg shadow-md border border-gray-200 transform transition-transform duration-100 hover:-translate-x-1">
+            <h1 className="text-xl font-semibold">Google Play</h1>
+          </a>
+          <a
+            href="https://www.apple.com/app-store/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex justify-center items-center gap-3 px-6 py-1.5 rounded-lg border border-gray-200 transform transition-transform duration-100 hover:-translate-x-1"
+          >
             <img className="w-10" src={appstoreImg} alt="" />
-            <h1 className="text-xl">App Store</h1>
-          </div>
+            <h1 className="text-xl font-semibold">App Store</h1>
+          </a>
         </div>
       </div>
       <div>

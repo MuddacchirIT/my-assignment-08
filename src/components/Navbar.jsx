@@ -59,20 +59,20 @@ const Navbar = () => {
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
-            <li>
-              <NavLink to="/" className="flex gap-5">
+            <li className="mx-1 px-2">
+              <NavLink to="/" className="flex gap-3">
                 <img className="w-6" src={homeImg} alt="" />
                 <h1 className="text-lg font-semibold">Home</h1>
               </NavLink>
             </li>
-            <li>
-              <NavLink to="/apps" className="flex gap-5">
+            <li className="mx-1 px-2">
+              <NavLink to="/apps" className="flex gap-">
                 <img className="w-6" src={appsImg} alt="" />
                 <h1 className="text-lg font-semibold">Apps</h1>
               </NavLink>
             </li>
-            <li>
-              <NavLink to="/installation" className="flex gap-5">
+            <li className="mx-1 px-2">
+              <NavLink to="/installation" className="flex gap-3">
                 <img className="w-6" src={insImg} alt="" />
                 <h1 className="text-lg font-semibold">Installation</h1>
               </NavLink>
