@@ -9,7 +9,6 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <MainLayout />,
-    errorElement: <ErrorPage />,
     hydrateFallbackElement: <p>Loading...</p>,
     children: [
       {
@@ -27,6 +26,10 @@ const router = createBrowserRouter([
       {
         path: "/contribute",
         element: <Contribute />,
+      },
+      {
+        path: "/*",
+        element: <ErrorPage />,
       },
     ],
   },

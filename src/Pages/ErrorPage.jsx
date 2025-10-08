@@ -2,15 +2,19 @@ import { Link } from "react-router";
 import errorImg from "../assets/images/error-404.png";
 const ErrorPage = () => {
   return (
-    <div>
+    <div className="flex flex-col justify-center items-center space-y-5">
       <img src={errorImg} alt="" />
-      <h1>Oops, page not found!</h1>
-      <h3>The page your are looking for is not available.</h3>
+      <h1 className="text-5xl text-[#00193199] font-bold">
+        Oops, page not found!
+      </h1>
+      <h3 className="text-lg text-[#00193199]">
+        The page your are looking for is not available.
+      </h3>
       <Link
         to="/"
         className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white"
       >
-        Show All
+        Go Back!
       </Link>
     </div>
   );
