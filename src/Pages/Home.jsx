@@ -6,30 +6,30 @@ import AppCard from "../components/AppCard";
 import useCard from "../hooks/useCard";
 const Home = () => {
   const { applink, loading, error } = useCard();
-  const featuredCard = applink.slice(0, 9);
+  const featuredCard = applink.slice(0, 8);
   return (
     <div>
       <div className="text-center space-y-10">
-        <h1 className="text-[#001931] text-5xl font-bold">
+        <h1 className="text-[#001931] text-6xl font-bold">
           We Build <br />
           <span className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">
-            Productive{" "}
+            Productive
           </span>
-          Apps
+          <span className="text-[#074f92]"> Apps</span>
         </h1>
-        <p className="text-lg text-[#00193190">
+        <p className="text-lg text-[#00193190]">
           At HERO.IO, we craft innovative apps designed to make everyday life
           simpler, smarter, and more exciting. <br /> Our goal is to turn your
           ideas into digital experiences that truly make an impact.
         </p>
         <div className="flex justify-center items-center gap-10 mb-10">
-          <div className="flex justify-center items-center gap-3 px-8 py-2 rounded-lg shadow-md">
-            <img className="w-10 bg-white" src={googleImg} alt="" />
-            <h1 className="text-xl font-semibold">Google Play</h1>
+          <div className="flex justify-center items-center gap-3 px-6 py-1 rounded-lg shadow-md border border-gray-200 transform transition-transform duration-100 hover:-translate-x-1">
+            <img className="w-9" src={googleImg} alt="" />
+            <h1 className="text-xl">Google Play</h1>
           </div>
-          <div className="flex justify-center items-center gap-3 px-8 py-2 rounded-lg shadow-md">
-            <img className="w-10 bg-white" src={appstoreImg} alt="" />
-            <h1 className="text-xl font-semibold">App Store</h1>
+          <div className="flex justify-center items-center gap-3 px-6 py-1 rounded-lg shadow-md border border-gray-200 transform transition-transform duration-100 hover:-translate-x-1">
+            <img className="w-10" src={appstoreImg} alt="" />
+            <h1 className="text-xl">App Store</h1>
           </div>
         </div>
       </div>
@@ -58,21 +58,21 @@ const Home = () => {
           </div>
         </div>
       </div>
-      <div className="text-center space-y-4 my-10">
-        <h2 className="text-5xl text-[#00193199] font-bold">Trending Apps</h2>
-        <p className="text-lg text-[#00193199">
+      <div className="text-center space-y-5 my-15">
+        <h2 className="text-5xl text-[#01182c] font-bold">Trending Apps</h2>
+        <p className="text-lg text-[#00193199]">
           Explore All Trending Apps on the Market developed by us
         </p>
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 bg-gray-50 p-3 rounded-lg">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 bg-gray-50 p-3 rounded-lg">
         {featuredCard.map((appData) => (
           <AppCard key={appData.id} appData={appData} />
         ))}
       </div>
-      <div className="flex justify-center mt-10">
+      <div className="flex justify-center my-10">
         <Link
           to="/apps"
-          className="w-[180px] h-11 btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white text-lg"
+          className="w-[180px] h-11 btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white text-lg my-10"
         >
           Show All
         </Link>
