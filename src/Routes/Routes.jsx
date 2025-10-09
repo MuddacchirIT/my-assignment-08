@@ -1,5 +1,6 @@
 import { createBrowserRouter } from "react-router";
 import MainLayout from "../Layouts/MainLayout.jsx";
+import AppDetails from "../Pages/AppDetails.jsx";
 import Apps from "../Pages/Apps.jsx";
 import Contribute from "../Pages/Contribute.jsx";
 import ErrorPage from "../Pages/ErrorPage.jsx";
@@ -26,6 +27,10 @@ const router = createBrowserRouter([
       {
         path: "/contribute",
         element: <Contribute />,
+      },
+      {
+        path: "/appdetails/:id",
+        element: <AppDetails />,
       },
       {
         path: "/*",

@@ -1,83 +1,10 @@
 [
   {
-    "image": "https://picsum.photos/seed/app26/200",
-    "title": "PlantPal",
-    "companyName": "GreenGrow Labs",
-    "id": 26,
-    "description": "Identify plants and get personalized care reminders.",
-    "size": 58.3,
-    "reviews": 15200,
-    "ratingAvg": 4.7,
-    "downloads": 1900000,
-    "ratings": [
-      { "name": "1 star", "count": 400 },
-      { "name": "2 star", "count": 700 },
-      { "name": "3 star", "count": 1900 },
-      { "name": "4 star", "count": 4300 },
-      { "name": "5 star", "count": 8900 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app27/200",
-    "title": "HomeFit",
-    "companyName": "ActiveLiving",
-    "id": 27,
-    "description": "At-home workout plans and AI-powered coaching.",
-    "size": 88.1,
-    "reviews": 24400,
-    "ratingAvg": 4.5,
-    "downloads": 4200000,
-    "ratings": [
-      { "name": "1 star", "count": 1500 },
-      { "name": "2 star", "count": 2100 },
-      { "name": "3 star", "count": 4500 },
-      { "name": "4 star", "count": 7200 },
-      { "name": "5 star", "count": 9100 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app28/200",
-    "title": "ChefCraft",
-    "companyName": "GastroTech",
-    "id": 28,
-    "description": "Interactive cooking tutorials from world-class chefs.",
-    "size": 112.4,
-    "reviews": 32600,
-    "ratingAvg": 4.8,
-    "downloads": 6100000,
-    "ratings": [
-      { "name": "1 star", "count": 1100 },
-      { "name": "2 star", "count": 1500 },
-      { "name": "3 star", "count": 3100 },
-      { "name": "4 star", "count": 7700 },
-      { "name": "5 star", "count": 19200 }
-    ]
-  },
-
-  {
-    "image": "https://picsum.photos/seed/app2/200",
-    "title": "MindEase",
-    "companyName": "CalmTech",
-    "id": 2,
-    "description": "Meditation, relaxation, and focus exercises for a calm mind.",
-    "size": 67.9,
-    "reviews": 28000,
-    "ratingAvg": 4.9,
-    "downloads": 5200000,
-    "ratings": [
-      { "name": "1 star", "count": 300 },
-      { "name": "2 star", "count": 500 },
-      { "name": "3 star", "count": 1200 },
-      { "name": "4 star", "count": 5100 },
-      { "name": "5 star", "count": 20900 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app3/200",
+    "image": "https://api.dicebear.com/6.x/adventurer/svg?seed=app5",
     "title": "TravelMate",
     "companyName": "WanderWorks",
-    "id": 3,
-    "description": "Your ultimate travel companion with maps, tips, and itineraries.",
+    "id": 1,
+    "description": "TravelMate is a powerful travel companion app that helps users plan, organize, and enjoy trips with ease and confidence. It provides real-time navigation, interactive maps, curated recommendations for hotels, restaurants, and attractions, and personalized itineraries based on user preferences and interests. TravelMate includes offline maps and travel guides to ensure seamless navigation even without an internet connection. Users can track their travel expenses, receive weather updates, and share their travel experiences with friends and the TravelMate community. The app also offers AI-powered insights to suggest hidden gems, optimize routes, and provide cultural tips for a richer travel experience. With integrated booking options, itinerary synchronization across devices, and detailed reviews from fellow travelers, TravelMate transforms the planning process into an effortless and enjoyable experience. Whether exploring your own city or traveling abroad, TravelMate ensures you make the most of every adventure while staying organized, informed, and inspired throughout your journey.",
     "size": 105.2,
     "reviews": 32500,
     "ratingAvg": 4.4,
@@ -91,11 +18,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app4/200",
+    "image": "https://api.dicebear.com/6.x/bottts/svg?seed=app6",
     "title": "NoteFlow",
     "companyName": "ZenApps",
-    "id": 4,
-    "description": "Organize your thoughts and tasks in one elegant workspace.",
+    "id": 2,
+    "description": "NoteFlow is an advanced productivity and organization app that empowers users to capture their thoughts, tasks, and ideas in one seamless digital workspace. The app provides versatile note-taking features, including rich text formatting, voice notes, sketches, and multimedia attachments, enabling users to express themselves in a way that suits their workflow. NoteFlow integrates task management tools, such as to-do lists, reminders, priority flags, and deadline tracking, to help users stay on top of projects and daily responsibilities. Additionally, it offers organizational features like folders, tags, and search functionality, making it easy to locate and revisit important notes. Users can synchronize their notes across multiple devices, collaborate with team members, and share selected notes with friends or colleagues. NoteFlow leverages AI technology to summarize notes, suggest actionable items, and even generate automated templates for common workflows. With a focus on both personal and professional productivity, NoteFlow helps users reduce mental clutter, increase efficiency, and maintain a structured and organized life. Whether for students, professionals, or creative individuals, NoteFlow offers an elegant and flexible solution for capturing, organizing, and managing information effectively.",
     "size": 36.7,
     "reviews": 14210,
     "ratingAvg": 4.6,
@@ -108,66 +35,31 @@
       { "name": "5 star", "count": 5796 }
     ]
   },
+
   {
-    "image": "https://picsum.photos/seed/app5/200",
-    "title": "FitTrack Pro",
-    "companyName": "HealthLab Inc.",
-    "id": 5,
-    "description": "Track workouts, steps, calories, and more with AI insights.",
-    "size": 92.4,
-    "reviews": 18433,
-    "ratingAvg": 4.5,
-    "downloads": 2400000,
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=truck103",
+    "title": "MiniHaulers",
+    "companyName": "LittleDrivers",
+    "id": 3,
+    "description": "MiniHaulers is a fun educational app for children to learn about trucks, construction vehicles, and cargo transport. Users operate trucks in virtual construction sites, loading materials, navigating obstacles, and completing tasks. Gamification features, such as badges, points, and unlockable content, keep children motivated. Parents and educators can monitor progress, assign challenges, and encourage collaboration.",
+    "size": 49.2,
+    "reviews": 8800,
+    "ratingAvg": 4.8,
+    "downloads": 1420000,
     "ratings": [
-      { "name": "1 star", "count": 1423 },
-      { "name": "2 star", "count": 2034 },
-      { "name": "3 star", "count": 3412 },
-      { "name": "4 star", "count": 6212 },
-      { "name": "5 star", "count": 7352 }
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 1020 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 4430 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app6/200",
-    "title": "SoundWave Studio",
-    "companyName": "EchoByte",
-    "id": 6,
-    "description": "Mix and master tracks with professional-grade audio tools.",
-    "size": 188.1,
-    "reviews": 15600,
-    "ratingAvg": 4.3,
-    "downloads": 2000000,
-    "ratings": [
-      { "name": "1 star", "count": 1100 },
-      { "name": "2 star", "count": 1400 },
-      { "name": "3 star", "count": 2800 },
-      { "name": "4 star", "count": 4600 },
-      { "name": "5 star", "count": 6700 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app7/200",
-    "title": "QuickCook Recipes",
-    "companyName": "HomeChef Co.",
-    "id": 7,
-    "description": "Discover and cook meals in under 30 minutes.",
-    "size": 55.3,
-    "reviews": 20500,
-    "ratingAvg": 4.6,
-    "downloads": 3100000,
-    "ratings": [
-      { "name": "1 star", "count": 1100 },
-      { "name": "2 star", "count": 1600 },
-      { "name": "3 star", "count": 2300 },
-      { "name": "4 star", "count": 7000 },
-      { "name": "5 star", "count": 8500 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app8/200",
+    "image": "https://api.dicebear.com/6.x/bottts/svg?seed=app10",
     "title": "CryptoPulse",
     "companyName": "BlockEdge",
-    "id": 8,
-    "description": "Stay updated on cryptocurrency trends and prices.",
+    "id": 4,
+    "description": "CryptoPulse is a comprehensive cryptocurrency monitoring and management application for both beginners and experienced traders. The app offers real-time updates on cryptocurrency prices, market trends, and news from trusted sources. Users can create custom watchlists, set alerts for price changes or market movements, and track portfolio performance. CryptoPulse includes detailed analytics, historical charts, and predictive insights powered by AI algorithms to help users make informed investment decisions. The app also provides educational content about blockchain technology, different coins, and market strategies, making it accessible for those new to the cryptocurrency space. Security is a key focus, with encrypted data storage and optional two-factor authentication to protect sensitive information. Users can connect with a community of crypto enthusiasts to discuss trends, share tips, and participate in investment discussions. With its combination of real-time monitoring, analytics, and educational resources, CryptoPulse helps users navigate the complex world of cryptocurrencies with confidence, making informed decisions while staying updated on the latest market developments.",
     "size": 44.8,
     "reviews": 11900,
     "ratingAvg": 4.2,
@@ -181,11 +73,480 @@
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app9/200",
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=rocket102",
+    "title": "SpaceExplorers",
+    "companyName": "GalaxyKids",
+    "id": 5,
+    "description": "SpaceExplorers is an educational game introducing children to planets, stars, and space missions. Users pilot spaceships, complete missions, and learn astronomy facts. Gamified quizzes and achievements make learning space science fun and interactive.",
+    "size": 61.3,
+    "reviews": 10200,
+    "ratingAvg": 4.6,
+    "downloads": 1650000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3600 },
+      { "name": "5 star", "count": 4900 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=dino104",
+    "title": "DinoDig",
+    "companyName": "PaleoPlay",
+    "id": 6,
+    "description": "DinoDig lets children explore a virtual archaeological site to uncover dinosaur fossils. Kids excavate, assemble skeletons, and learn about prehistoric creatures. Interactive mini-games and facts make paleontology exciting and educational.",
+    "size": 48.9,
+    "reviews": 7800,
+    "ratingAvg": 4.7,
+    "downloads": 1210000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 950 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 3760 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=farm105",
+    "title": "FarmFriends",
+    "companyName": "AgriKids",
+    "id": 7,
+    "description": "FarmFriends introduces children to farming and agriculture through interactive farm management. Users plant crops, raise animals, and learn about sustainability. Fun challenges, rewards, and collaborative tasks encourage creativity and responsibility.",
+    "size": 52.7,
+    "reviews": 8600,
+    "ratingAvg": 4.8,
+    "downloads": 1380000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 4210 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=chef106",
+    "title": "LittleChefs",
+    "companyName": "TinyKitchen",
+    "id": 8,
+    "description": "LittleChefs teaches kids cooking basics in a safe virtual kitchen. Users follow recipes, mix ingredients, and complete cooking challenges. The app includes badges, points, and parent dashboards for tracking progress.",
+    "size": 50.4,
+    "reviews": 9400,
+    "ratingAvg": 4.7,
+    "downloads": 1250000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 950 },
+      { "name": "4 star", "count": 3300 },
+      { "name": "5 star", "count": 3790 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=plane107",
+    "title": "AeroAdventures",
+    "companyName": "FlightKids",
+    "id": 9,
+    "description": "AeroAdventures introduces kids to aviation. Players fly planes, complete missions, and learn about aerodynamics and aviation history. Interactive lessons, achievements, and creative challenges make learning about flight fun and engaging.",
+    "size": 58.1,
+    "reviews": 8900,
+    "ratingAvg": 4.6,
+    "downloads": 1320000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 1010 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 3520 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=art108",
+    "title": "ArtPlay",
+    "companyName": "CreativeKids",
+    "id": 10,
+    "description": "ArtPlay lets children explore creativity through painting, drawing, and digital crafts. Users complete guided challenges, earn rewards, and showcase their artwork in a safe community gallery.",
+    "size": 47.8,
+    "reviews": 8100,
+    "ratingAvg": 4.8,
+    "downloads": 1190000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 920 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 3210 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=music109",
+    "title": "MusicMakers",
+    "companyName": "TinyTunes",
+    "id": 11,
+    "description": "MusicMakers introduces kids to rhythm, instruments, and music composition. Users play games, compose tunes, and participate in challenges to learn about music theory in a fun and interactive way.",
+    "size": 51.3,
+    "reviews": 8700,
+    "ratingAvg": 4.7,
+    "downloads": 1260000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 940 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 3250 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=math110",
+    "title": "MathWizards",
+    "companyName": "BrainyKids",
+    "id": 12,
+    "description": "MathWizards teaches children arithmetic, problem-solving, and logical thinking through interactive games and puzzles. Rewards, levels, and challenges keep learning engaging and motivating.",
+    "size": 53.5,
+    "reviews": 9200,
+    "ratingAvg": 4.8,
+    "downloads": 1340000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 3810 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=truck103",
+    "title": "MiniHaulers",
+    "companyName": "LittleDrivers",
+    "id": 13,
+    "description": "MiniHaulers is a fun educational app for children to learn about trucks, construction vehicles, and cargo transport. Users operate trucks in virtual construction sites, loading materials, navigating obstacles, and completing tasks. The app combines interactive storytelling, mini-games, and creative challenges to teach kids about vehicle functions, safety, and teamwork. Gamification features, such as badges, points, and unlockable content, keep children motivated. Parents and educators can monitor progress, assign challenges, and encourage collaboration. MiniHaulers blends fun, creativity, and learning to make truck-themed education immersive and enjoyable.",
+    "size": 49.2,
+    "reviews": 8800,
+    "ratingAvg": 4.8,
+    "downloads": 1420000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 1020 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 4430 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=truck104",
+    "title": "TruckTown Adventures",
+    "companyName": "KiddyPlay",
+    "id": 14,
+    "description": "TruckTown Adventures allows children to explore a vibrant city filled with trucks, construction vehicles, and delivery missions. Users engage in creative tasks such as building roads, transporting goods, and completing interactive challenges. The app uses storytelling, puzzles, and gamified missions to teach children about vehicle operations, traffic rules, and logistics. Gamification features include points, badges, and unlockable trucks. Parents and educators can track progress and encourage problem-solving skills. TruckTown Adventures blends learning and play, fostering creativity, critical thinking, and understanding of real-world logistics in a fun, safe environment.",
+    "size": 51.0,
+    "reviews": 8950,
+    "ratingAvg": 4.7,
+    "downloads": 1440000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 1030 },
+      { "name": "4 star", "count": 2850 },
+      { "name": "5 star", "count": 4650 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=truck105",
+    "title": "BigRig Builders",
+    "companyName": "AdventureKids",
+    "id": 15,
+    "description": "BigRig Builders is an interactive app where children learn about trucks, construction machinery, and building projects through hands-on virtual activities. Users can operate trucks, load materials, and complete missions on construction sites. Mini-games, puzzles, and interactive challenges teach kids about physics, teamwork, and logistics. The app includes gamified rewards such as points, badges, and unlockable trucks to encourage engagement. Parents can monitor progress and assign challenges. BigRig Builders merges creativity, education, and playful exploration, helping children develop problem-solving skills, fine motor coordination, and a love for trucks and construction activities.",
+    "size": 50.7,
+    "reviews": 9100,
+    "ratingAvg": 4.8,
+    "downloads": 1455000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 1050 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=truck106",
+    "title": "LittleTruckers",
+    "companyName": "TinyDrivers Studio",
+    "id": 16,
+    "description": "LittleTruckers is an engaging educational app designed for children to learn about trucks, delivery systems, and logistics in a playful environment. Users can operate colorful trucks to complete delivery missions, navigate obstacle courses, and participate in interactive challenges that teach teamwork, spatial reasoning, and basic problem-solving skills. The app includes mini-games, creative customization options for trucks, and reward systems such as badges and points to motivate continuous learning. Parents and educators can track progress, assign challenges, and encourage exploration of virtual cityscapes and construction sites. With immersive animations, sound effects, and storytelling elements, LittleTruckers combines fun and learning to foster curiosity, creativity, and a love for vehicles and transportation systems.",
+    "size": 49.8,
+    "reviews": 9300,
+    "ratingAvg": 4.7,
+    "downloads": 1470000,
+    "ratings": [
+      { "name": "1 star", "count": 115 },
+      { "name": "2 star", "count": 225 },
+      { "name": "3 star", "count": 1080 },
+      { "name": "4 star", "count": 2920 },
+      { "name": "5 star", "count": 4960 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=tree202",
+    "title": "ForestFantasy",
+    "companyName": "AdventurePlay",
+    "id": 17,
+    "description": "ForestFantasy transports children into a magical world where forests come alive with talking animals, hidden treasures, and environmental quests. Users plant trees, nurture animals, and explore secret pathways while learning about ecosystems, conservation, and sustainable living. Interactive mini-games, puzzles, and challenges teach science concepts in an engaging way. Rewards, badges, and unlockable areas motivate continuous play and learning. Parents and teachers can track progress, assign eco-missions, and reinforce lessons through discussion. ForestFantasy combines imagination, adventure, and education to create an immersive, interactive platform where children develop problem-solving skills, creativity, and a love for nature.",
+    "size": 52.3,
+    "reviews": 8800,
+    "ratingAvg": 4.7,
+    "downloads": 1455000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 1050 },
+      { "name": "4 star", "count": 2850 },
+      { "name": "5 star", "count": 4520 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=tree203",
+    "title": "SproutPlay",
+    "companyName": "NatureTots",
+    "id": 18,
+    "description": "SproutPlay is an interactive mobile app that teaches children the basics of gardening, plant biology, and environmental care through gamified activities. Kids can plant virtual seeds, water them, and watch them grow, learning about sunlight, soil types, and ecosystems. The app includes quizzes, storytelling, and creative challenges to reinforce environmental knowledge and critical thinking. Gamification elements like rewards, badges, and unlockable items motivate children to continue learning and exploring. Parents can monitor their child's progress, set learning goals, and engage with their child in collaborative eco-projects. SproutPlay encourages creativity, responsibility, and environmental stewardship while delivering a fun, safe, and educational mobile experience.",
+    "size": 49.8,
+    "reviews": 8600,
+    "ratingAvg": 4.8,
+    "downloads": 1400000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 1020 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 4430 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=tree204",
+    "title": "LeafLearners",
+    "companyName": "EcoKids Studio",
+    "id": 19,
+    "description": "LeafLearners is a playful educational app where children explore virtual forests, gardens, and meadows while learning about plants, trees, and environmental science. Users engage in planting, watering, and harvesting activities, completing fun challenges that teach photosynthesis, plant anatomy, and ecological balance. Interactive storytelling, puzzles, and quizzes reinforce knowledge while developing problem-solving skills. Gamified rewards and achievements keep children motivated and excited to explore further. Parents and educators can track learning progress and encourage eco-friendly habits. LeafLearners combines creativity, exploration, and education to create a safe and immersive environment that fosters environmental awareness, curiosity, and a love for nature.",
+    "size": 51.0,
+    "reviews": 8700,
+    "ratingAvg": 4.7,
+    "downloads": 1425000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 1010 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 4450 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=tree205",
+    "title": "TinyTrekkers",
+    "companyName": "AdventureSprout",
+    "id": 20,
+    "description": "TinyTrekkers is an imaginative app that allows children to embark on virtual eco-adventures, exploring forests, mountains, and rivers. Users complete interactive missions like planting trees, rescuing wildlife, and restoring habitats. Educational mini-games, quizzes, and creative challenges teach environmental science, geography, and problem-solving skills. Gamification features such as points, badges, and unlockable levels keep children motivated and engaged. Parents and teachers can track progress, assign challenges, and participate in virtual eco-activities. TinyTrekkers fosters curiosity, creativity, and environmental responsibility, delivering a rich, immersive, and educational experience in a playful and safe digital world.",
+    "size": 50.5,
+    "reviews": 8900,
+    "ratingAvg": 4.8,
+    "downloads": 1440000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 1030 },
+      { "name": "4 star", "count": 2850 },
+      { "name": "5 star", "count": 4650 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=tree101",
+    "title": "TreeTots",
+    "companyName": "NaturePlay Labs",
+    "id": 21,
+    "description": "TreeTots is a vibrant educational app designed to teach children about trees, plants, and the environment through playful interactions. Users can explore virtual forests, plant digital trees, and care for them as they grow. Each activity is enriched with fun facts about different species, their ecological roles, and seasonal changes. TreeTots also features interactive mini-games, puzzles, and quizzes to reinforce learning while developing critical thinking and observation skills. Children are encouraged to complete missions such as watering plants, identifying leaves, and creating sustainable gardens, earning rewards and unlocking new areas. Parents can monitor progress, track milestones, and participate in eco-friendly challenges with their children. By combining immersive storytelling, gamification, and educational content, TreeTots fosters curiosity, environmental awareness, and a love for nature, making it a safe, engaging, and inspiring learning platform for kids.",
+    "size": 48.5,
+    "reviews": 8500,
+    "ratingAvg": 4.7,
+    "downloads": 1450000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 4060 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=tree102",
+    "title": "ForestFriends",
+    "companyName": "EcoPlay Studio",
+    "id": 22,
+    "description": "ForestFriends invites children to explore an enchanting virtual forest filled with interactive animals, plants, and hidden treasures. The app encourages exploration, creativity, and learning about ecosystems and biodiversity. Users can plant trees, nurture flowers, and observe the growth of plants over time. Interactive storylines introduce environmental challenges, teaching responsibility and problem-solving. With mini-games like identifying leaves, matching habitats, and guiding forest creatures, children develop cognitive skills while having fun. ForestFriends includes gamified progress tracking, rewards, and achievements to motivate consistent play. Parents and teachers can monitor learning milestones, set challenges, and encourage eco-friendly habits. The app emphasizes curiosity, empathy for nature, and collaboration, as children can share their forests and creations safely. By combining education, storytelling, and interactive gameplay, ForestFriends delivers an engaging, hands-on experience that connects young users with the natural world.",
+    "size": 51.2,
+    "reviews": 9200,
+    "ratingAvg": 4.8,
+    "downloads": 1600000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 1150 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 4570 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=tree103",
+    "title": "EcoBuilders",
+    "companyName": "GreenMinds",
+    "id": 23,
+    "description": "EcoBuilders is an interactive app that teaches children about sustainable building and environmental conservation. Users construct eco-friendly structures using virtual trees, plants, and natural materials, learning about renewable resources and the importance of protecting ecosystems. The app features engaging challenges, such as designing parks, creating habitats for animals, and building energy-efficient structures. Gamified elements, including rewards, badges, and unlockable levels, encourage creativity, problem-solving, and critical thinking. EcoBuilders also provides educational content, facts about ecology, and interactive quizzes that reinforce learning outcomes. Children can share their virtual projects in a safe online community and collaborate on group challenges. The app fosters teamwork, innovation, and environmental responsibility while maintaining a fun and immersive experience. Parents can track progress, set goals, and engage in joint eco-projects with their children, making EcoBuilders both educational and entertaining.",
+    "size": 54.0,
+    "reviews": 7800,
+    "ratingAvg": 4.6,
+    "downloads": 1350000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 3880 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=tree104",
+    "title": "LeafyLand",
+    "companyName": "AdventureKids",
+    "id": 24,
+    "description": "LeafyLand is a magical virtual world where children explore forests, gardens, and secret treehouses while learning about plant life, photosynthesis, and environmental stewardship. Users complete missions such as planting seeds, collecting leaves, and caring for trees. Each activity includes fun challenges and interactive storytelling that encourages curiosity and discovery. The app integrates quizzes, puzzles, and games to reinforce learning about flora, ecosystems, and conservation. LeafyLand promotes problem-solving, creativity, and spatial reasoning as children navigate the world, unlock rewards, and earn badges. Parents and educators can track progress, assign learning objectives, and engage with their child’s virtual garden. With beautiful animations, immersive soundscapes, and playful characters, LeafyLand provides a rich, educational, and entertaining experience that fosters environmental awareness and inspires a love for nature.",
+    "size": 50.7,
+    "reviews": 8600,
+    "ratingAvg": 4.7,
+    "downloads": 1420000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 1020 },
+      { "name": "4 star", "count": 2950 },
+      { "name": "5 star", "count": 4230 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=tree105",
+    "title": "GardenGurus",
+    "companyName": "SproutFun Studio",
+    "id": 25,
+    "description": "GardenGurus is a fun and educational gardening app where children learn how to plant, grow, and maintain virtual gardens. Users can experiment with different plants, flowers, and trees, while understanding sunlight, water cycles, and seasonal changes. The app provides interactive challenges such as designing themed gardens, completing eco-quests, and nurturing rare plants. Gamification elements, including badges, rewards, and levels, keep children motivated and engaged. GardenGurus encourages exploration, problem-solving, and creativity, while teaching environmental responsibility and appreciation for nature. Parents and teachers can track growth progress, assign tasks, and discuss eco-lessons with children. With vibrant visuals, playful animations, and interactive tutorials, GardenGurus delivers a rich, immersive, and educational experience that inspires kids to connect with nature and develop lifelong green habits.",
+    "size": 53.3,
+    "reviews": 8100,
+    "ratingAvg": 4.8,
+    "downloads": 1380000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 4060 }
+    ]
+  },
+
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=toy101",
+    "title": "ToyVerse",
+    "companyName": "FunPlay Labs",
+    "id": 26,
+    "description": "ToyVerse is a playful and educational platform designed to inspire creativity and imagination in children. The app offers a vast collection of interactive games, puzzles, and story-based adventures that help develop cognitive skills, problem-solving, and hand-eye coordination. Each activity is designed with age-appropriate challenges, colorful graphics, and engaging sound effects to keep young users entertained. Parents can track progress, assign learning objectives, and receive insights on their child's development. ToyVerse also encourages social interaction through collaborative games and safe chat rooms. With a mix of gamification elements, such as badges and rewards, the app motivates consistent practice while promoting curiosity and learning. From virtual building blocks to interactive storybooks and mini-science experiments, ToyVerse provides endless fun and education, making it a versatile tool for growth and discovery in a safe digital environment.",
+    "size": 45.2,
+    "reviews": 12500,
+    "ratingAvg": 4.7,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 7500 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=toy102",
+    "title": "PuzzlePals",
+    "companyName": "BrainyKids",
+    "id": 27,
+    "description": "PuzzlePals is an interactive puzzle-solving app designed to stimulate critical thinking, logic, and creativity in children and teens. The app features a wide variety of puzzles, including jigsaw puzzles, logic grids, pattern recognition, and memory challenges. Users can unlock new puzzle levels and earn rewards as they progress. The app adapts difficulty based on the user’s skill level, providing both fun and educational value. Colorful animations, engaging sound effects, and friendly characters make each challenge immersive. Parents and educators can monitor performance and assign specific problem-solving exercises. PuzzlePals promotes cognitive development, perseverance, and patience through playful learning experiences. Social features allow users to collaborate on puzzles, compete in friendly challenges, and share achievements. With daily challenges, themed events, and seasonal puzzles, PuzzlePals provides endless opportunities to learn, think critically, and have fun in a safe digital environment.",
+    "size": 38.7,
+    "reviews": 11200,
+    "ratingAvg": 4.6,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3600 },
+      { "name": "5 star", "count": 7500 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=toy103",
+    "title": "RoboFriends",
+    "companyName": "TechTots",
+    "id": 28,
+    "description": "RoboFriends introduces children to the fascinating world of robotics and STEM learning through interactive, playful robots. Users can program their virtual robots using simple drag-and-drop coding, learning the fundamentals of logic, sequencing, and problem-solving. The app features missions, challenges, and games that promote creativity, analytical thinking, and collaboration. RoboFriends provides a safe and engaging environment where children can experiment with robotics concepts without any physical hardware. Through storytelling, users encounter fun robot characters, complete missions, and unlock new robot accessories. Parents and educators can track progress, adjust difficulty, and set goals for learning milestones. With RoboFriends, children gain foundational STEM knowledge while enjoying a playful, immersive experience that makes learning coding, robotics, and critical thinking exciting and accessible for all ages.",
+    "size": 52.3,
+    "reviews": 9800,
+    "ratingAvg": 4.8,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 6200 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=toy104",
+    "title": "MagicBlocks",
+    "companyName": "PlayLab Studios",
+    "id": 29,
+    "description": "MagicBlocks is a creative construction app for kids that allows them to build virtual structures using colorful, interactive blocks. The app encourages spatial reasoning, creativity, and problem-solving through guided challenges and free-form building modes. Users can experiment with physics-based puzzles, design their own structures, and share creations with a safe online community. MagicBlocks also features seasonal events, themed challenges, and interactive storytelling elements to enhance engagement. Parents can monitor activity, progress, and learning milestones. With fun animations, playful sounds, and intuitive controls, MagicBlocks provides endless entertainment while fostering cognitive development, fine motor skills, and imagination. Kids can explore architectural concepts, learn to collaborate, and express creativity in a safe, interactive environment.",
+    "size": 46.8,
+    "reviews": 8600,
+    "ratingAvg": 4.5,
+    "downloads": 1350000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 4600 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=toy105",
+    "title": "AnimalAdventures",
+    "companyName": "WildFun Games",
+    "id": 30,
+    "description": "AnimalAdventures is an immersive virtual pet and wildlife exploration app. Users can adopt, feed, and care for virtual animals while learning about different species, habitats, and ecosystems. The app features educational missions, fun mini-games, and interactive storytelling elements that teach biology, conservation, and empathy for animals. Players can explore virtual habitats, complete challenges, and unlock rewards for positive animal interactions. AnimalAdventures fosters curiosity, creativity, and responsibility while providing an engaging, safe, and educational experience. Parents can track progress, monitor learning outcomes, and encourage exploration. With colorful animations, playful sound effects, and dynamic interactions, AnimalAdventures provides both entertainment and education, inspiring a love for wildlife and environmental stewardship in young users.",
+    "size": 49.2,
+    "reviews": 10300,
+    "ratingAvg": 4.7,
+    "downloads": 1650000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3300 },
+      { "name": "5 star", "count": 6450 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=toy11",
     "title": "LearnLang",
     "companyName": "Polyglot Studio",
-    "id": 9,
-    "description": "Master new languages through conversation and games.",
+    "id": 31,
+    "description": "LearnLang is a comprehensive language learning platform designed for learners of all ages and skill levels. The app focuses on immersive and interactive experiences to help users master new languages effectively and efficiently. Using gamified lessons, LearnLang combines vocabulary drills, grammar exercises, pronunciation practice, and conversational simulations to create a holistic learning experience. Users can track their progress with detailed performance analytics and receive AI-generated feedback to improve areas of difficulty. The app also includes live conversation practice with native speakers, cultural insights to enhance language comprehension, and community forums for peer support. With customizable lesson plans, adaptive learning algorithms, and a rich library of audio and visual materials, LearnLang encourages consistent practice and long-term retention. Whether preparing for travel, exams, or personal growth, LearnLang provides a structured yet flexible approach that makes language learning engaging, effective, and enjoyable.",
     "size": 120.5,
     "reviews": 40200,
     "ratingAvg": 4.7,
@@ -198,48 +559,13 @@
       { "name": "5 star", "count": 19900 }
     ]
   },
+
   {
-    "image": "https://picsum.photos/seed/app10/200",
-    "title": "BudgetBuddy",
-    "companyName": "Finovate Labs",
-    "id": 10,
-    "description": "Manage expenses, savings, and goals effortlessly.",
-    "size": 22.5,
-    "reviews": 9800,
-    "ratingAvg": 4.8,
-    "downloads": 750000,
-    "ratings": [
-      { "name": "1 star", "count": 200 },
-      { "name": "2 star", "count": 500 },
-      { "name": "3 star", "count": 1100 },
-      { "name": "4 star", "count": 3100 },
-      { "name": "5 star", "count": 4800 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app11/200",
-    "title": "FitTrackr",
-    "companyName": "VitalSync Studios",
-    "id": 11,
-    "description": "Monitor workouts, nutrition, and sleep with AI-driven insights.",
-    "size": 34.2,
-    "reviews": 15600,
-    "ratingAvg": 4.6,
-    "downloads": 1200000,
-    "ratings": [
-      { "name": "1 star", "count": 400 },
-      { "name": "2 star", "count": 700 },
-      { "name": "3 star", "count": 1800 },
-      { "name": "4 star", "count": 4200 },
-      { "name": "5 star", "count": 8500 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app12/200",
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=toy14",
     "title": "Weatherly",
     "companyName": "ClimaSense",
-    "id": 12,
-    "description": "Real-time weather forecasts with radar and alerts.",
+    "id": 32,
+    "description": "Weatherly is an advanced weather forecasting app that provides real-time updates, radar imagery, and alerts to help users stay informed and prepared. The app offers detailed forecasts including temperature, precipitation, wind speed, humidity, and UV index, as well as hourly and long-term predictions. Weatherly leverages AI and meteorological data to deliver accurate, hyper-local forecasts tailored to the user’s location. Users can set customized notifications for severe weather, storms, or changes in conditions. The app also features interactive maps, satellite imagery, and weather trends for planning outdoor activities, travel, or daily routines. With an intuitive interface and visually engaging graphics, Weatherly makes complex meteorological data easy to understand and actionable. Users can track climate patterns, compare historical weather data, and explore insights for gardening, sports, or travel planning. By providing reliable, timely, and detailed information, Weatherly ensures users can make informed decisions and stay safe in all weather conditions.",
     "size": 52.6,
     "reviews": 21300,
     "ratingAvg": 4.4,
@@ -253,11 +579,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app13/200",
+    "image": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=toy15",
     "title": "EduQuest",
     "companyName": "BrightLearn",
-    "id": 13,
-    "description": "Interactive lessons and quizzes for all ages.",
+    "id": 33,
+    "description": "EduQuest is an educational platform offering interactive lessons, quizzes, and learning resources for learners of all ages. The app covers a wide variety of subjects, including science, mathematics, language arts, history, and technology. Each lesson incorporates multimedia content, interactive exercises, and real-world examples to make learning engaging and effective. EduQuest adapts to individual learning styles and provides personalized feedback, allowing students to progress at their own pace. Teachers and parents can monitor performance, assign tasks, and track improvement over time. Additionally, EduQuest includes gamification features such as badges, leaderboards, and challenges to motivate learners and encourage consistent study habits. The app emphasizes critical thinking, problem-solving, and creativity, aiming to provide a holistic educational experience. With an intuitive interface, offline capabilities, and a growing library of content, EduQuest empowers students to acquire knowledge, develop skills, and build confidence, preparing them for academic success and lifelong learning.",
     "size": 115.9,
     "reviews": 38500,
     "ratingAvg": 4.8,
@@ -271,219 +597,220 @@
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app14/200",
-    "title": "GameVault",
-    "companyName": "PlayHub",
-    "id": 14,
-    "description": "Discover trending mobile games and track progress.",
-    "size": 60.2,
-    "reviews": 25100,
-    "ratingAvg": 4.3,
-    "downloads": 3900000,
-    "ratings": [
-      { "name": "1 star", "count": 1800 },
-      { "name": "2 star", "count": 2300 },
-      { "name": "3 star", "count": 5400 },
-      { "name": "4 star", "count": 7800 },
-      { "name": "5 star", "count": 7800 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app15/200",
-    "title": "PetCare+",
-    "companyName": "FurTech",
-    "id": 15,
-    "description": "Keep track of your pet’s health, walks, and diet.",
-    "size": 41.2,
-    "reviews": 13400,
+    "image": "https://api.dicebear.com/6.x/adventurer-neutral/svg?seed=app11",
+    "title": "LearnLang",
+    "companyName": "Polyglot Studio",
+    "id": 34,
+    "description": "LearnLang is a comprehensive language learning platform designed for learners of all ages and skill levels. The app focuses on immersive and interactive experiences to help users master new languages effectively and efficiently. Using gamified lessons, LearnLang combines vocabulary drills, grammar exercises, pronunciation practice, and conversational simulations to create a holistic learning experience. Users can track their progress with detailed performance analytics and receive AI-generated feedback to improve areas of difficulty. The app also includes live conversation practice with native speakers, cultural insights to enhance language comprehension, and community forums for peer support. With customizable lesson plans, adaptive learning algorithms, and a rich library of audio and visual materials, LearnLang encourages consistent practice and long-term retention. Whether preparing for travel, exams, or personal growth, LearnLang provides a structured yet flexible approach that makes language learning engaging, effective, and enjoyable.",
+    "size": 120.5,
+    "reviews": 40200,
     "ratingAvg": 4.7,
-    "downloads": 1800000,
+    "downloads": 6200000,
     "ratings": [
-      { "name": "1 star", "count": 500 },
-      { "name": "2 star", "count": 700 },
-      { "name": "3 star", "count": 1600 },
-      { "name": "4 star", "count": 3800 },
-      { "name": "5 star", "count": 6800 }
+      { "name": "1 star", "count": 2100 },
+      { "name": "2 star", "count": 2800 },
+      { "name": "3 star", "count": 5200 },
+      { "name": "4 star", "count": 10200 },
+      { "name": "5 star", "count": 19900 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app16/200",
-    "title": "ShopSmart",
-    "companyName": "EcomLabs",
-    "id": 16,
-    "description": "Compare prices and find deals from top retailers.",
-    "size": 79.8,
-    "reviews": 27400,
-    "ratingAvg": 4.3,
-    "downloads": 4800000,
-    "ratings": [
-      { "name": "1 star", "count": 1900 },
-      { "name": "2 star", "count": 2300 },
-      { "name": "3 star", "count": 5600 },
-      { "name": "4 star", "count": 8700 },
-      { "name": "5 star", "count": 9900 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app17/200",
-    "title": "StreamNow",
-    "companyName": "MediaStream Inc.",
-    "id": 17,
-    "description": "Watch your favorite shows and movies anywhere.",
-    "size": 220.3,
-    "reviews": 81500,
-    "ratingAvg": 4.6,
-    "downloads": 12500000,
-    "ratings": [
-      { "name": "1 star", "count": 5500 },
-      { "name": "2 star", "count": 7400 },
-      { "name": "3 star", "count": 14100 },
-      { "name": "4 star", "count": 21100 },
-      { "name": "5 star", "count": 33400 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app18/200",
-    "title": "EcoTrack",
-    "companyName": "GreenLife",
-    "id": 18,
-    "description": "Track your carbon footprint and sustainability habits.",
-    "size": 38.5,
-    "reviews": 9200,
-    "ratingAvg": 4.5,
-    "downloads": 800000,
-    "ratings": [
-      { "name": "1 star", "count": 300 },
-      { "name": "2 star", "count": 600 },
-      { "name": "3 star", "count": 1400 },
-      { "name": "4 star", "count": 2600 },
-      { "name": "5 star", "count": 4300 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app19/200",
-    "title": "SleepWell",
-    "companyName": "DreamTech",
-    "id": 19,
-    "description": "Sleep tracker and relaxation soundscapes.",
-    "size": 70.2,
-    "reviews": 15600,
+    "image": "https://api.dicebear.com/6.x/bottts/svg?seed=app12",
+    "title": "BudgetBuddy",
+    "companyName": "Finovate Labs",
+    "id": 35,
+    "description": "BudgetBuddy is an intuitive financial management app designed to help users gain control over their finances and achieve their financial goals. The app allows users to track income, expenses, savings, and investments in one centralized platform. With interactive budgeting tools, visual charts, and AI-driven insights, BudgetBuddy helps users understand spending patterns, reduce unnecessary expenses, and optimize their financial strategies. The app also provides goal-setting features for saving toward specific objectives such as vacations, emergency funds, or major purchases. Users receive personalized alerts, reminders for bills, and recommendations for smarter financial decisions. BudgetBuddy emphasizes security with encrypted data storage, secure logins, and multi-factor authentication. By integrating educational content, real-world tips, and progress tracking, the app empowers users to make informed financial decisions, build wealth, and achieve long-term stability. Whether managing personal finances, family budgets, or planning for the future, BudgetBuddy offers a comprehensive and user-friendly solution to maintain financial health.",
+    "size": 22.5,
+    "reviews": 9800,
     "ratingAvg": 4.8,
-    "downloads": 2100000,
+    "downloads": 750000,
     "ratings": [
-      { "name": "1 star", "count": 400 },
-      { "name": "2 star", "count": 700 },
-      { "name": "3 star", "count": 1400 },
-      { "name": "4 star", "count": 4000 },
-      { "name": "5 star", "count": 10100 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1/200",
-    "title": "PhotoFix",
-    "companyName": "Pixeloid",
-    "id": 1,
-    "description": "AI-based photo enhancement and background remover.",
-    "size": 80.4,
-    "reviews": 17300,
-    "ratingAvg": 4.6,
-    "downloads": 2100000,
-    "ratings": [
-      { "name": "1 star", "count": 600 },
-      { "name": "2 star", "count": 1200 },
-      { "name": "3 star", "count": 2900 },
-      { "name": "4 star", "count": 4900 },
-      { "name": "5 star", "count": 7600 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app20/200",
-    "title": "RideShare+",
-    "companyName": "UrbanMotion",
-    "id": 20,
-    "description": "Book rides quickly with real-time driver tracking.",
-    "size": 93.7,
-    "reviews": 45200,
-    "ratingAvg": 4.2,
-    "downloads": 8300000,
-    "ratings": [
-      { "name": "1 star", "count": 4400 },
-      { "name": "2 star", "count": 5200 },
-      { "name": "3 star", "count": 8900 },
-      { "name": "4 star", "count": 11400 },
-      { "name": "5 star", "count": 15300 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app21/200",
-    "title": "TuneMix",
-    "companyName": "BeatLabs",
-    "id": 21,
-    "description": "Create playlists and discover new music.",
-    "size": 84.5,
-    "reviews": 27100,
-    "ratingAvg": 4.4,
-    "downloads": 4700000,
-    "ratings": [
-      { "name": "1 star", "count": 1900 },
-      { "name": "2 star", "count": 2600 },
-      { "name": "3 star", "count": 4800 },
-      { "name": "4 star", "count": 8200 },
-      { "name": "5 star", "count": 9600 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app22/200",
-    "title": "CityGuide",
-    "companyName": "Triply",
-    "id": 22,
-    "description": "Explore nearby attractions, restaurants, and tours.",
-    "size": 101.6,
-    "reviews": 19800,
-    "ratingAvg": 4.5,
-    "downloads": 3100000,
-    "ratings": [
-      { "name": "1 star", "count": 900 },
-      { "name": "2 star", "count": 1200 },
-      { "name": "3 star", "count": 2400 },
-      { "name": "4 star", "count": 5800 },
-      { "name": "5 star", "count": 7500 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app23/200",
-    "title": "SecureVault",
-    "companyName": "SafeByte",
-    "id": 23,
-    "description": "Store your passwords and sensitive data securely.",
-    "size": 29.8,
-    "reviews": 7400,
-    "ratingAvg": 4.9,
-    "downloads": 950000,
-    "ratings": [
-      { "name": "1 star", "count": 100 },
-      { "name": "2 star", "count": 200 },
-      { "name": "3 star", "count": 600 },
-      { "name": "4 star", "count": 1700 },
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3100 },
       { "name": "5 star", "count": 4800 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app24/200",
-    "title": "DocuScan",
-    "companyName": "PaperlessWorks",
-    "id": 24,
-    "description": "Scan, sign, and share documents with ease.",
-    "size": 31.7,
-    "reviews": 8900,
-    "ratingAvg": 4.4,
-    "downloads": 1300000,
+    "image": "https://api.dicebear.com/6.x/avataaars/svg?seed=app13",
+    "title": "FitTrackr",
+    "companyName": "VitalSync Studios",
+    "id": 36,
+    "description": "FitTrackr is a full-featured fitness monitoring app that allows users to track workouts, nutrition, sleep, and overall health. Designed for individuals seeking a holistic approach to wellness, the app integrates AI-powered recommendations, goal tracking, and progress analytics. Users can log different types of exercise routines, monitor calories burned, and track heart rate and other vital stats. FitTrackr also provides meal planning tools, recipe suggestions, and hydration reminders to promote healthy living. With an intuitive interface and customizable dashboards, users can visualize trends and identify areas for improvement. The app supports wearable device integration for accurate data collection and synchronization across platforms. Additionally, FitTrackr encourages community engagement, enabling users to join challenges, share achievements, and find motivation through a supportive network. By combining personalized insights, advanced analytics, and user-friendly design, FitTrackr empowers individuals to maintain a balanced, active, and healthy lifestyle, making it an essential companion for anyone looking to optimize physical and mental wellness.",
+    "size": 34.2,
+    "reviews": 15600,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
     "ratings": [
       { "name": "1 star", "count": 400 },
-      { "name": "2 star", "count": 800 },
-      { "name": "3 star", "count": 1700 },
-      { "name": "4 star", "count": 2700 },
-      { "name": "5 star", "count": 3300 }
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 8500 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/adventurer-neutral/svg?seed=app14",
+    "title": "Weatherly",
+    "companyName": "ClimaSense",
+    "id": 37,
+    "description": "Weatherly is an advanced weather forecasting app that provides real-time updates, radar imagery, and alerts to help users stay informed and prepared. The app offers detailed forecasts including temperature, precipitation, wind speed, humidity, and UV index, as well as hourly and long-term predictions. Weatherly leverages AI and meteorological data to deliver accurate, hyper-local forecasts tailored to the user’s location. Users can set customized notifications for severe weather, storms, or changes in conditions. The app also features interactive maps, satellite imagery, and weather trends for planning outdoor activities, travel, or daily routines. With an intuitive interface and visually engaging graphics, Weatherly makes complex meteorological data easy to understand and actionable. Users can track climate patterns, compare historical weather data, and explore insights for gardening, sports, or travel planning. By providing reliable, timely, and detailed information, Weatherly ensures users can make informed decisions and stay safe in all weather conditions.",
+    "size": 52.6,
+    "reviews": 21300,
+    "ratingAvg": 4.4,
+    "downloads": 3400000,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 3300 },
+      { "name": "4 star", "count": 7400 },
+      { "name": "5 star", "count": 8100 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/bottts/svg?seed=app15",
+    "title": "EduQuest",
+    "companyName": "BrightLearn",
+    "id": 38,
+    "description": "EduQuest is an educational platform offering interactive lessons, quizzes, and learning resources for learners of all ages. The app covers a wide variety of subjects, including science, mathematics, language arts, history, and technology. Each lesson incorporates multimedia content, interactive exercises, and real-world examples to make learning engaging and effective. EduQuest adapts to individual learning styles and provides personalized feedback, allowing students to progress at their own pace. Teachers and parents can monitor performance, assign tasks, and track improvement over time. Additionally, EduQuest includes gamification features such as badges, leaderboards, and challenges to motivate learners and encourage consistent study habits. The app emphasizes critical thinking, problem-solving, and creativity, aiming to provide a holistic educational experience. With an intuitive interface, offline capabilities, and a growing library of content, EduQuest empowers students to acquire knowledge, develop skills, and build confidence, preparing them for academic success and lifelong learning.",
+    "size": 115.9,
+    "reviews": 38500,
+    "ratingAvg": 4.8,
+    "downloads": 5600000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 1900 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 9500 },
+      { "name": "5 star", "count": 21600 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/adventurer-neutral/svg?seed=app1",
+    "title": "PlantPal",
+    "companyName": "GreenGrow Labs",
+    "id": 39,
+    "description": "PlantPal is a comprehensive mobile application designed to help plant enthusiasts, beginners, and experts alike take the best possible care of their indoor and outdoor plants. With an intuitive interface, PlantPal allows users to identify thousands of plant species simply by taking a picture, instantly providing detailed information about the plant’s origin, growth habits, ideal environment, and common care challenges. Beyond identification, the app features personalized care schedules and reminders for watering, fertilizing, pruning, and repotting, ensuring each plant thrives according to its unique needs. Users can track their plant collection, monitor growth progress with photos and notes, and receive helpful tips based on seasonal changes or local climate conditions. The app also integrates a community feature where plant lovers can connect, share advice, post photos, and discuss plant-related topics, making it an ideal social platform for gardeners. PlantPal leverages AI-driven insights to suggest suitable companion plants, detect early signs of disease or pests, and recommend environmentally friendly solutions. Whether you are a novice looking to start your first garden or an experienced horticulturist managing a large collection, PlantPal provides the tools, guidance, and inspiration you need to cultivate a thriving green space and foster a deeper connection with nature.",
+    "size": 58.3,
+    "reviews": 15200,
+    "ratingAvg": 4.7,
+    "downloads": 1900000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1900 },
+      { "name": "4 star", "count": 4300 },
+      { "name": "5 star", "count": 8900 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/bottts/svg?seed=app2",
+    "title": "HomeFit",
+    "companyName": "ActiveLiving",
+    "id": 40,
+    "description": "HomeFit is an advanced fitness application designed to bring a personal trainer experience right into the comfort of your own home. The app offers a variety of structured workout plans tailored to different fitness levels and goals, including weight loss, strength training, flexibility, and endurance. Powered by AI technology, HomeFit provides real-time feedback on your form, helping prevent injuries while maximizing results. Users can track progress over time, log their nutrition and hydration, and set reminders to stay consistent with their routine. With interactive video tutorials, step-by-step guidance, and a built-in community for support and motivation, HomeFit ensures that every user can stay on track with their health journey. The app also integrates smart equipment compatibility, such as heart rate monitors, resistance bands, and fitness trackers, to provide accurate metrics and personalized suggestions. From beginner-friendly workouts to advanced high-intensity routines, HomeFit adapts to your fitness level, offering a fully customized experience that encourages users to achieve long-term sustainable results. Whether you want to lose weight, gain muscle, or simply maintain a healthier lifestyle, HomeFit is your ultimate digital fitness companion.",
+    "size": 88.1,
+    "reviews": 24400,
+    "ratingAvg": 4.5,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2100 },
+      { "name": "3 star", "count": 4500 },
+      { "name": "4 star", "count": 7200 },
+      { "name": "5 star", "count": 9100 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/identicon/svg?seed=app3",
+    "title": "ChefCraft",
+    "companyName": "GastroTech",
+    "id": 41,
+    "description": "ChefCraft is an immersive culinary app that brings professional-grade cooking tutorials directly to your smartphone. Designed for both novice cooks and seasoned chefs, ChefCraft offers step-by-step video lessons from world-renowned chefs, covering a wide range of cuisines, cooking techniques, and plating styles. The app includes interactive features such as ingredient substitution suggestions, portion adjustments, and meal planning assistance. Users can track their cooking progress, save favorite recipes, and even receive personalized recommendations based on dietary preferences and skill level. ChefCraft also incorporates AI-driven guidance to provide real-time feedback on cooking techniques, ensuring precision and consistency. Beyond learning, the app allows users to participate in challenges, share their culinary creations with the community, and gain feedback from peers and experts. With detailed ingredient lists, nutritional information, and shopping integration, ChefCraft makes cooking efficient, educational, and enjoyable. Whether you want to master French pastries, perfect sushi rolls, or explore international flavors, ChefCraft equips you with the knowledge, tools, and confidence to elevate your culinary skills and impress friends and family with gourmet meals at home.",
+    "size": 112.4,
+    "reviews": 32600,
+    "ratingAvg": 4.8,
+    "downloads": 6100000,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 3100 },
+      { "name": "4 star", "count": 7700 },
+      { "name": "5 star", "count": 19200 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/avataaars/svg?seed=app4",
+    "title": "MindEase",
+    "companyName": "CalmTech",
+    "id": 42,
+    "description": "MindEase is a holistic mental wellness app designed to help individuals cultivate mindfulness, reduce stress, and enhance emotional well-being. The app features guided meditation sessions, breathing exercises, progressive relaxation techniques, and mindfulness activities tailored to different levels of experience. MindEase tracks user progress and adapts suggestions based on mood, sleep quality, and stress levels. It also offers cognitive-behavioral therapy exercises, journaling prompts, and sleep-inducing soundscapes to help users develop a healthier mindset. The community aspect of MindEase allows users to share experiences, join virtual meditation groups, and participate in wellness challenges. Additionally, the app leverages AI technology to provide personalized reminders, tips, and motivational nudges, encouraging consistent practice and long-term habit formation. Whether you are seeking stress relief, improved focus, or better sleep quality, MindEase serves as a supportive and accessible companion for maintaining mental balance and nurturing overall well-being in everyday life.",
+    "size": 67.9,
+    "reviews": 28000,
+    "ratingAvg": 4.9,
+    "downloads": 5200000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 5100 },
+      { "name": "5 star", "count": 20900 }
+    ]
+  },
+
+  {
+    "image": "https://api.dicebear.com/6.x/identicon/svg?seed=app7",
+    "title": "FitTrack Pro",
+    "companyName": "HealthLab Inc.",
+    "id": 43,
+    "description": "FitTrack Pro is a state-of-the-art fitness tracking app designed for individuals who want to monitor and optimize their health and performance. The app tracks a wide range of metrics, including workouts, steps, calories burned, heart rate, sleep patterns, and nutrition. FitTrack Pro integrates AI-powered insights to provide personalized recommendations for workouts, recovery, and dietary adjustments. Users can set goals, monitor progress, and receive visual reports that help them understand trends and areas for improvement. The app also offers guided workout routines, adaptive training plans, and instructional videos for proper form and technique. Social and community features allow users to share achievements, participate in challenges, and motivate each other. FitTrack Pro supports integration with smart devices such as heart rate monitors, smart scales, and wearable trackers to ensure accurate data collection. With a focus on sustainable fitness habits, FitTrack Pro encourages users to build long-term routines that improve overall wellness, enhance performance, and promote a healthier lifestyle. Whether you are an amateur fitness enthusiast or a professional athlete, FitTrack Pro provides comprehensive tools to track progress, set achievable goals, and maintain motivation.",
+    "size": 92.4,
+    "reviews": 18433,
+    "ratingAvg": 4.5,
+    "downloads": 2400000,
+    "ratings": [
+      { "name": "1 star", "count": 1423 },
+      { "name": "2 star", "count": 2034 },
+      { "name": "3 star", "count": 3412 },
+      { "name": "4 star", "count": 6212 },
+      { "name": "5 star", "count": 7352 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/avataaars/svg?seed=app8",
+    "title": "SoundWave Studio",
+    "companyName": "EchoByte",
+    "id": 44,
+    "description": "SoundWave Studio is a professional audio production app that allows users to create, mix, and master music and sound projects with studio-grade tools directly from their devices. The app features a multi-track audio editor, virtual instruments, effects, equalizers, compressors, and real-time audio monitoring. Users can record vocals, instruments, and samples, edit audio clips, and apply advanced sound processing techniques to achieve high-quality results. SoundWave Studio supports various audio formats and offers cloud storage and project sharing, allowing collaboration with other musicians and producers. The app also includes AI-assisted features that suggest improvements to mixes, analyze frequencies, and optimize audio output for streaming or mastering purposes. Tutorials, templates, and a user-friendly interface make the app accessible for beginners while providing powerful tools for professionals. Whether you are producing music, podcasts, or sound design for videos and games, SoundWave Studio gives users the flexibility, precision, and creative freedom to bring their ideas to life. The combination of advanced technology and intuitive design ensures that creators can focus on artistic expression while maintaining technical excellence in every project.",
+    "size": 188.1,
+    "reviews": 15600,
+    "ratingAvg": 4.3,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 2800 },
+      { "name": "4 star", "count": 4600 },
+      { "name": "5 star", "count": 6700 }
+    ]
+  },
+  {
+    "image": "https://api.dicebear.com/6.x/adventurer-neutral/svg?seed=app9",
+    "title": "QuickCook Recipes",
+    "companyName": "HomeChef Co.",
+    "id": 45,
+    "description": "QuickCook Recipes is a dynamic culinary app designed for busy individuals who want to prepare delicious and nutritious meals in under 30 minutes. The app offers a wide range of recipes, each with step-by-step instructions, ingredient lists, and nutritional information. Users can filter recipes by cuisine, dietary preferences, cooking time, or difficulty level. QuickCook Recipes provides instructional videos, cooking tips, and suggested substitutions to accommodate different tastes and ingredient availability. The app also features meal planning tools, shopping list generation, and pantry management, making it easier to stay organized and save time. AI-driven personalization suggests recipes based on past activity, preferred flavors, and seasonal ingredients. Users can share their creations, rate recipes, and participate in weekly cooking challenges. With a focus on efficiency, creativity, and taste, QuickCook Recipes empowers home cooks to explore new culinary ideas while maintaining a healthy and balanced diet. The app encourages experimentation, fosters confidence in the kitchen, and provides all the guidance needed to create tasty meals quickly and effortlessly, even for beginners.",
+    "size": 55.3,
+    "reviews": 20500,
+    "ratingAvg": 4.6,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 2300 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 8500 }
     ]
   }
 ]

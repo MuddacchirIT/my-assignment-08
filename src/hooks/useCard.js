@@ -6,7 +6,7 @@ const useCard = () => {
   const [error, setError] = useState(null);
   useEffect(() => {
     setLoading(true);
-    axios("./data.json")
+    axios("../data.json")
       .then((data) => setApplink(data.data))
       .catch((err) => setError(err))
       .finally(() => setLoading(false));

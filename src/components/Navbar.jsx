@@ -31,22 +31,23 @@ const Navbar = () => {
               tabIndex={0}
               className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
             >
-              <li>
-                <a>Item 1</a>
+              <li className="mx-1 px-2">
+                <NavLink to="/" className="flex gap-3">
+                  <img className="w-6" src={homeImg} alt="" />
+                  <h1 className="text-lg font-semibold">Home</h1>
+                </NavLink>
               </li>
-              <li>
-                <a>Parent</a>
-                <ul className="p-2">
-                  <li>
-                    <a>Submenu 1</a>
-                  </li>
-                  <li>
-                    <a>Submenu 2</a>
-                  </li>
-                </ul>
+              <li className="mx-1 px-2">
+                <NavLink to="/apps" className="flex gap-">
+                  <img className="w-6" src={appsImg} alt="" />
+                  <h1 className="text-lg font-semibold">Apps</h1>
+                </NavLink>
               </li>
-              <li>
-                <a>Item 3</a>
+              <li className="mx-1 px-2">
+                <NavLink to="/installation" className="flex gap-3">
+                  <img className="w-6" src={insImg} alt="" />
+                  <h1 className="text-lg font-semibold">Installation</h1>
+                </NavLink>
               </li>
             </ul>
           </div>
@@ -84,7 +85,7 @@ const Navbar = () => {
             href="https://github.com/MuddacchirIT"
             target="_blank"
             rel="noopener noreferrer"
-            className="w-[175px] h-12 text-lg btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white"
+            className="w-[175px] h-12 text-lg btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white hover:scale-105 hover:from-[#9F62F2] hover:to-[#632EE3] transition-all duration-100 hover-vibrate"
           >
             <img className="mr-2 w-7" src={githubImg} alt="" />
             Contribute

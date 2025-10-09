@@ -10,15 +10,21 @@ const Apps = () => {
     : applink;
   console.log(searchedApp);
   return (
-    <div>
-      <div className="flex justify-between py-5 items-center">
+    <div className="bg-gray-50">
+      <div className="space-y-4">
+        <h2 className="text-4xl font-bold text-center">Our All Applications</h2>
+        <p className="text-[#02071390] text-center text-lg">
+          Explore All Apps on the Market developed by us. We code for Millions
+        </p>
+      </div>
+      <div className="max-w-[1600px] mx-auto flex justify-between my-10">
         <h1>
-          <span className="text-2xl font-semibold">
-            ({searchedApp.length}) apps is Found
+          <span className="text-2xl font-bold">
+            ({searchedApp.length}) Apps Found
           </span>
         </h1>
         <div>
-          <label className="input">
+          <label className="input w-[320px] h-12">
             <svg
               className="h-[1em] opacity-50"
               xmlns="http://www.w3.org/2000/svg"
@@ -31,11 +37,12 @@ const Apps = () => {
                 fill="none"
                 stroke="currentColor"
               >
-                <circle cx="11" cy="11" r="8"></circle>
+                <circle cx="11" cy="11" r="10"></circle>
                 <path d="m21 21-4.3-4.3"></path>
               </g>
             </svg>
             <input
+              className="text-xl shadow-md"
               value={search}
               onChange={(e) => setSearch(e.target.value)}
               type="search"
@@ -46,7 +53,7 @@ const Apps = () => {
         </div>
       </div>
       {searchedApp.length > 0 ? (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div className="max-w-[1600px] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
           {searchedApp.map((appData) => (
             <AppCard key={appData.id} appData={appData} />
           ))}
