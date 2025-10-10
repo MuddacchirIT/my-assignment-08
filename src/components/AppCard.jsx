@@ -1,4 +1,6 @@
 import { Link } from "react-router";
+import iconDow from "../assets/images/icon-downloads.png";
+import iconStar from "../assets/images/icon-ratings.png";
 const AppCard = ({ appData }) => {
   return (
     <Link
@@ -17,13 +19,13 @@ const AppCard = ({ appData }) => {
           {appData.title} - {appData.companyName}
         </h2>
         <div className="card-actions justify-between">
-          <button className="btn">
-            Downloads <br />
+          <button className="btn text-lg font-semibold">
+            <img className="w-5" src={iconDow} alt="" />
             {appData.downloads}
           </button>
           <button className="btn">
-            Reviews <br />
-            {appData.downloads}
+            <img className="w-5" src={iconStar} alt="" />
+            <span className="text-lg font-semibold">{appData.ratingAvg}</span>
           </button>
         </div>
       </div>

@@ -66,7 +66,7 @@ const AppDetails = () => {
         </div>
         <button
           onClick={handleInstalled}
-          className="bg-[#00D390] text-white text-xl h-12 w-[220px] rounded-sm"
+          className="bg-[#00D390] text-white text-xl h-12 w-[220px] font-semibold rounded-sm"
         >
           {isInstalled ? "Uninstall" : "Install Now"}
         </button>
