@@ -58,7 +58,7 @@ const Installation = () => {
   })();
   return (
     <div className="bg-gray-50">
-      <div className="space-y-3">
+      <div className="space-y-4">
         <h2 className="text-[#001931] text-4xl font-bold text-center">
           Your Installed Apps
         </h2>
@@ -66,7 +66,7 @@ const Installation = () => {
           Explore All Trending Apps on the Market developed by us
         </p>
       </div>
-      <div className="max-w-[1600px] mx-auto flex justify-between items-center py-5">
+      <div className="max-w-[1550px] mx-auto flex justify-between items-center py-5">
         <h2 className="text-2xl font-semibold">
           {sortedItem.length} Apps Found
         </h2>
@@ -77,12 +77,12 @@ const Installation = () => {
             onChange={(e) => setSortOrder(e.target.value)}
           >
             <option value="none">Sort by Size</option>
-            <option value="size-asc">Low-&gt;High</option>
-            <option value="size-desc">High-&gt;Low</option>
+            <option value="size-asc">Low &gt; High</option>
+            <option value="size-desc">High &gt; Low</option>
           </select>
         </label>
       </div>
-      <div className="space-y-3 max-w-[1600px] mx-auto">
+      <div className="space-y-3 max-w-[1550px] mx-auto">
         {sortedItem.map((p) => (
           <div
             key={p.id}
@@ -120,7 +120,7 @@ const Installation = () => {
             <div className=" gap-3">
               <button
                 onClick={() => handleRemove(p.id)}
-                className="btn btn-outline"
+                className="bg-[#00D390] text-white text-lg h-12 w-[160px] font-semibold rounded-sm"
               >
                 Uninstall
               </button>
@@ -129,9 +129,9 @@ const Installation = () => {
         ))}
       </div>
       {/* chart */}
-      <div className="space-y-3 mt-10">
-        <h3 className="text-xl font-semibold text-center">Ratings Summary</h3>
-        <div className="bg-base-100 border rounded-xl p-4 h-80">
+      <div className="space-y-3 mt-10 max-w-[1550px] mx-auto">
+        <h3 className="text-2xl font-bold text-center">Ratings</h3>
+        <div className="bg-base-100 rounded-xl p-4 h-80">
           <ResponsiveContainer width="100%" height="100%">
             <BarChart data={chartData}>
               <CartesianGrid strokeDasharray="3 3" />

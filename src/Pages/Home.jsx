@@ -10,7 +10,7 @@ const Home = () => {
   return (
     <div>
       <div className="text-center space-y-10">
-        <h1 className="text-[#001931] text-6xl font-bold">
+        <h1 className="text-[#001931] text-4xl md:text-5xl lg:text-6xl font-bold">
           We Build <br />
           <span className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">
             Productive
@@ -45,7 +45,7 @@ const Home = () => {
       </div>
       <div>
         <img className="w-90% mx-auto" src={mobileImg} alt="" />
-        <div className="flex flex-col justify-center items-center space-y-10 h-[400px] bg-gradient-to-r from-[#632EE3] to-[#9F62F2]">
+        <div className="flex flex-col justify-center items-center space-y-0 md:space-x-3 lg:space-y-10 h-[420px] md:[380px] lg:h-[380px] bg-gradient-to-r from-[#632EE3] to-[#9F62F2]">
           <h2 className="text-3xl md:text-4xl lg:text-5xl text-white font-bold">
             Trusted by Millions, Built for You
           </h2>
