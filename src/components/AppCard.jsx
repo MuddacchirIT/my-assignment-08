@@ -13,10 +13,18 @@ const AppCard = ({ appData }) => {
         />
       </figure>
       <div className="card-body">
-        <h2 className="card-title">{appData.title}</h2>
+        <h2 className="card-title">
+          {appData.title} - {appData.companyName}
+        </h2>
         <div className="card-actions justify-between">
-          <button className="btn btn-primary">Buy Now</button>
-          <button className="btn btn-primary">Buy Now</button>
+          <button className="btn">
+            Downloads <br />
+            {appData.downloads}
+          </button>
+          <button className="btn">
+            Reviews <br />
+            {appData.downloads}
+          </button>
         </div>
       </div>
     </Link>

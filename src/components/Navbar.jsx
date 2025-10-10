@@ -67,7 +67,7 @@ const Navbar = () => {
               </NavLink>
             </li>
             <li className="mx-1 px-2">
-              <NavLink to="/apps" className="flex gap-">
+              <NavLink to="/apps" className="flex gap-3">
                 <img className="w-6" src={appsImg} alt="" />
                 <h1 className="text-lg font-semibold">Apps</h1>
               </NavLink>

@@ -6,12 +6,24 @@ import useCard from "../hooks/useCard.js";
 const AppDetails = () => {
   const { id } = useParams();
   const { applink, loading, error } = useCard(id);
-  const apData = applink.find((p) => String(p.id) === id);
+  const appData = applink.find((p) => p.id === Number(id));
   if (loading) return <p>Loading...</p>;
-  console.log(apData);
-  const { image, title, companyName, downloads, ratingAvg, reviews } = apData;
+  const { image, title, companyName, downloads, ratingAvg, reviews } = appData;
+  const handleInstalled = () => {
+    const existList = JSON.parse(localStorage.getItem("installed"));
+    let updatedList = [];
+    if (existList) {
+      const isDuplicate = existList.some((p) => p.id === appData.id);
+      if (isDuplicate) return alert("Sorry, already exist");
+      updatedList = [...existList, appData];
+    } else {
+      updatedList.push(appData);
+    }
+    localStorage.setItem("installed", JSON.stringify(updatedList));
+  };
+
   return (
-    <div className="flex justify-start items-center">
+    <div className="flex justify-start items-center space-x-30">
       <figure className="overflow-hidden w-1/3 rounded-xl shadow-lg">
         <img className="w-full h-full object-cover" src={image} alt="appCard" />
       </figure>
@@ -47,7 +59,9 @@ const AppDetails = () => {
             </div>
           </div>
         </div>
-        <button className="btn btn-primary">Install Now</button>
+        <button onClick={handleInstalled} className="btn btn-primary">
+          Install Now
+        </button>
       </div>
     </div>
   );

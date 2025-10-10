@@ -17,7 +17,7 @@ const Apps = () => {
           Explore All Apps on the Market developed by us. We code for Millions
         </p>
       </div>
-      <div className="max-w-[1600px] mx-auto flex justify-between my-10">
+      <div className="max-w-[1600px] mx-auto flex justify-between items-center my-4">
         <h1>
           <span className="text-2xl font-bold">
             ({searchedApp.length}) Apps Found
