@@ -16,6 +16,13 @@ const Installation = () => {
     }
   })();
 
+  const handleRemove = (id) => {
+    const existList = JSON.parse(localStorage.getItem("installed"));
+    let updatedList = existList.filter((p) => p.id !== id);
+    setInstalled(updatedList);
+    localStorage.setItem("installed", JSON.stringify(updatedList));
+  };
+
   return (
     <div>
       <div>
@@ -64,7 +71,12 @@ const Installation = () => {
               </div>
             </div>
             <div className=" gap-3">
-              <button className="btn btn-outline">Uninstall</button>
+              <button
+                onClick={() => handleRemove(p.id)}
+                className="btn btn-outline"
+              >
+                Uninstall
+              </button>
             </div>
           </div>
         ))}
